@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Welcome Event",
+    "date": "2025-10-25",
+    "description": "Kickoff celebration for our AWS project!"
+  },
+  {
+    "title": "Tech Workshop",
+    "date": "2025-11-01",
+    "description": "Learn cloud hosting using S3 and Lambda."
+  }
+]

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Event Management System</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>📅 Event Management System</h1>
+  </header>
+
+  <section id="events">
+    <h2>Upcoming Events</h2>
+    <div id="event-list"></div>
+  </section>
+
+  <section id="add-event">
+    <h2>Add New Event</h2>
+    <form id="eventForm">
+      <input type="text" id="title" placeholder="Event Title" required />
+      <input type="date" id="date" required />
+      <textarea id="description" placeholder="Description" required></textarea>
+      <button type="submit">Add Event</button>
+    </form>
+  </section>
+
+  <section id="subscribe">
+    <h2>Subscribe for Updates</h2>
+    <form id="subscribeForm">
+      <input type="email" id="email" placeholder="Your Email" required />
+      <button type="submit">Subscribe</button>
+    </form>
+  </section>
+
+  <script src="script.js"></script>
+</body>
+</html>
+
+
+
+
