@@ -28,4 +28,4 @@ The **Event Announcement System** is a cloud-based web application designed to s
 Cloud-Based Event Announcement Website using AWS Services.
 
 ## 👩‍💻 Developer
-Developed by **Rasidha Begum** as part of the B.Tech (IT) final year project.
+Developed by **Rasidha Begum** 
